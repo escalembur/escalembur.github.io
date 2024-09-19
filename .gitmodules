@@ -1,0 +1,9 @@
+[submodule "themes/coming-soon"]
+	path = themes/coming-soon
+	url = https://github.com/mansoorbarri/coming-soon.git
+[submodule "themes/yuan"]
+	path = themes/yuan
+	url = https://github.com/17ms/yuan.git
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/jmfergeau/hugo.386
